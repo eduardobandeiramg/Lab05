@@ -63,6 +63,6 @@ Acredito que, em uma ferramenta de contagem de linhas de código, é essencial q
 #### Sobre a contabilização das linhas (linhas de comentários e linhas sendo usadas sem necessidade(apenas para uma chave, por exemplo)):
 Eu particularmente concordo com o resultado, uma vez que a ferramenta tem o papel simples e objetivo de contar linhas de código. Ela não se propõe a fazer nada diferente disso, como contar apenas linhas não descartáveis ou algo do tipo. 
 
-## Utilizando a ferramenta para calcular número de linhas no projeto do Bitcoin:
-[Link do projeto](https://github.com/bitcoin/bitcoin)
+## Utilizando a ferramenta para calcular número de linhas no projeto do Android:
+[Link do projeto]([https://github.com/bitcoin/bitcoin](https://github.com/aosp-mirror/platform_frameworks_base)https://github.com/aosp-mirror/platform_frameworks_base)
 
