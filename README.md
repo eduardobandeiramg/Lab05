@@ -64,8 +64,7 @@ Acredito que, em uma ferramenta de contagem de linhas de código, é essencial q
 Eu particularmente concordo com o resultado, uma vez que a ferramenta tem o papel simples e objetivo de contar linhas de código. Ela não se propõe a fazer nada diferente disso, como contar apenas linhas não descartáveis ou algo do tipo. 
 
 ## Utilizando a ferramenta para calcular número de linhas em parte do projeto do Android:
-[Link do projeto]([https://github.com/bitcoin/bitcoin](https://github.com/aosp-mirror/platform_frameworks_base)https://github.com/aosp-mirror/platform_frameworks_base)
-Funcionalidade de animações do sistema operacional android:
-Localização do diretório analisado:
-core > java > android > animation
+[Link do projeto](https://github.com/aosp-mirror/platform_frameworks_base)
+- código analisado: funcionalidade de animações do sistema operacional android:
+- Localização do diretório analisado: core > java > android > animation
 
