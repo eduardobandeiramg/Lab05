@@ -24,10 +24,6 @@ public class App {
 
 <img width="305" alt="loc lab5" src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/92e1bb3b-e375-400b-bcb6-7d8213818884">
 
-- Resultado para funções:
-
-<img width="439" alt="primeiro resultado " src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/a7186211-20d5-472c-ad8b-28d0afe80855">
-
 
 Foram feitas algumas modificações, sendo elas descritas nos comentários do novo código:
 
@@ -68,24 +64,9 @@ public class App {
 
 <img width="221" alt="loc lab5 2" src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/b28c27c7-2455-4858-8228-463fee7b8abf">
 
-- Resultados para cada função:
-
-<img width="438" alt="segundo resultado" src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/c54a1648-ecb5-465c-8699-e85f281b0061">
-
-
-### Análise do resultado para cada classe:
+### Análise do resultado:
 Eu concordo com a técnica utilizada em não contar espaços em branco ou de comentários, uma vez que essas linhas não são utilizadas para realizar algo funcional no código e não determinam sua complexidade. 
 Além disso, também não são contabilizadas linhas desnecessárias, mesmo que haja código nelas. Ex.: na função printaNome(), dentro do método print(), foram usadas uma linha para cada concatenação de String e isso não foi contabilizado pela ferramenta.
-
-### Análise do resultado para cada função:
-Analisando o resultado gerado pela ferramenta, conclui-se que a contagem das linhas de código de um método é feito da seguinte forma: linha onde método é declarado + linhas dentro do método + linha onde se fecha a chave do método. 
-Além disso, foi possível observar uma peculiaridade: as linhas de código incluídas não foram contabilizadas no próprio método, mas sim no método que a "chamou". As linhas incluídas no método "printaNome()" não foram adicionadas a este método pela ferramenta, mas sim ao método "main()", que a invoca. 
-Não obstante essa observação, o número total de linhas contadas pela ferramenta vem de encontro à expectativa: 4 linhas da main + 15 linhas do novo código = 19 linhas na main. 
-#### Sobre o local onde as linhas são contadas: 
-Eu particularmente não concordo que as linhas do corpo de definição de um método não sejam contabilizadas como linhas deste método, e apenas dentro do método que invoca essa função. 
-Acredito que, em uma ferramenta de contagem de linhas de código, é essencial que seja entregue ao usuário a informação sobre quantas linhas são gastas para definír uma função, e não considerar isso apenas no momento de sua utilização.
-#### Sobre a contabilização das linhas (linhas de comentários e linhas sendo usadas sem necessidade(apenas para uma chave, por exemplo)):
-Eu particularmente não concordo com o resultado, uma vez que linhas inertes . como comentários, linhas vazias e linhas desnecessárias - estão sendo contabilizadas. Isso pode compremeter de forma considerável uma análise de complexidade de cada função. 
 
 ## Utilizando a ferramenta para calcular número de linhas em parte do projeto do Android:
 - Código analisado: funcionalidade de animações do sistema operacional android:
