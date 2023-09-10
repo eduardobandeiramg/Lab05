@@ -19,9 +19,13 @@ public class App {
 }
 
 ```
-E o resultado obtido usando a ferramenta ck foi o seguinte:
+E o resultado obtido para a classe usando a ferramenta ck foi o seguinte:
 
-<img width="439" alt="primeiro resultado " src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/957b2ad2-7ade-41bb-bc4c-8edc6b0b2cc1">
+<img width="305" alt="loc lab5" src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/92e1bb3b-e375-400b-bcb6-7d8213818884">
+
+Resultado para funções:
+
+
 
 Foram feitas algumas modificações, sendo elas descritas nos comentários do novo código:
 
@@ -37,14 +41,15 @@ public class App {
         + "\nDisciplina cursada: \n" 
         + disciplina);
 
-        //Adicionando uma linha de comentário.
-        //Adicionando outra linha de comentário.
-        //Mudanças realizadas:
-        //primeira chave para a linha de baixo.
-        //adicionadas mais 3 linhas para a função print (cada elemento a ser printado em uma linha diferente).
-        /* Comentário de múltiplas linhas para quantidade de novas linhas esperadas:
-        * 12 linhas a mais são esperadas, indo para 15.
-        * */
+        // Adicionando uma linha de comentário.
+        // Adicionando outra linha de comentário.
+        // Mudanças realizadas:
+        // primeira chave do metodo para duas linhas abaixo.
+        // mais duas linhas vazias abaixo da chave
+        // adicionadas mais 3 linhas para a função print (cada elemento a ser printado em uma linha diferente).
+        // mais uma linha em branco, seguida de 8 linhas de comentario e mais uma linha em branco a seguir.
+        // mais 3 linhas em branco antes da chamada da main e 2 após o fim da main.
+
     }
 
 
@@ -57,11 +62,16 @@ public class App {
 
 
 ```
-E o resultado encontrado usando a ferramenta ck foi o seguinte:
+E o resultado encontrado para a classe usando a ferramenta ck foi o seguinte:
 
-<img width="438" alt="segundo resultado" src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/275bede8-b66b-4244-be99-9e28e75e242b">
+<img width="221" alt="loc lab5 2" src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/b28c27c7-2455-4858-8228-463fee7b8abf">
 
-### Análise do resultado:
+Resultado para cada função:
+
+### Análise do resultado para cada classe:
+Eu concordo com a técnica utilizada em não contar espaços em branco ou de comentários, uma vez que essas linhas não sau utilizadas para realizar algo funcional no código e não determinam sua complexidade. 
+
+### Análise do resultado - para cada função:
 Analisando o resultado gerado pela ferramenta, conclui-se que a contagem das linhas de código de um método é feito da seguinte forma: linha onde método é declarado + linhas dentro do método + linha onde se fecha a chave do método. 
 Além disso, foi possível observar uma peculiaridade: as linhas de código incluídas não foram contabilizadas no próprio método, mas sim no método que a "chamou". As linhas incluídas no método "printaNome()" não foram adicionadas a este método pela ferramenta, mas sim ao método "main()", que a invoca. 
 Não obstante essa observação, o número total de linhas contadas pela ferramenta vem de encontro à expectativa: 4 linhas da main + 15 linhas do novo código = 19 linhas na main. 
