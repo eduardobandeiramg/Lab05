@@ -82,7 +82,7 @@ Além disso, também não são contabilizadas linhas desnecessárias, mesmo que 
 <img width="669" alt="loc" src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/8e62275f-6b63-4d86-911e-37b5abbb476a">
 
 
-#### Somatório das linhas de código das classes do diretório (obtida usando função soma da coluna "loc" planilha):
+#### Somatório das linhas de código das classes do diretório (obtida usando a função soma sobre a coluna "loc" da planilha):
 
 <img width="218" alt="soma android" src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/a5b34e5b-8c47-4b91-acc4-744ee1e8eaa3">
 
