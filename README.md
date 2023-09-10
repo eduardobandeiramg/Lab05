@@ -28,11 +28,15 @@ Foram feitas algumas modificações, sendo elas descritas nos comentários do no
 ```java
 public class App {
     public static void funcaoPrinta(String nome , String disciplina)
+    
     {
+    
+    
         System.out.println("Aluno: \n"
-        + nome 
+        + nome  
         + "\nDisciplina cursada: \n" 
         + disciplina);
+
         //Adicionando uma linha de comentário.
         //Adicionando outra linha de comentário.
         //Mudanças realizadas:
@@ -43,11 +47,15 @@ public class App {
         * */
     }
 
+
+
     public static void main(String[] args) throws Exception {
 
         funcaoPrinta("Eduardo" , "Engenharia Economica para Software");
         }
 }
+
+
 ```
 E o resultado encontrado usando a ferramenta ck foi o seguinte:
 
