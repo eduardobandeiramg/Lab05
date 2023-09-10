@@ -60,3 +60,6 @@ Eu particularmente não concordo que as linhas do corpo de definição de um mé
 Acredito que, em uma ferramenta de contagem de linhas de código, é essencial que seja entregue ao usuário a informação sobre quantas linhas são gastas para definír uma função, e não considerar isso apenas no momento de sua utilização.
 #### Sobre a contabilização das linhas (linhas de comentários e linhas sendo usadas sem necessidade(apenas para uma chave, por exemplo)):
 Eu particularmente concordo com o resultado, uma vez que a ferramenta tem o papel simples e objetivo de contar linhas de código. Ela não se propõe a fazer nada diferente disso, como contar apenas linhas não descartáveis ou algo do tipo. 
+
+## Utilizando a ferramenta para calcular número de linhas no projeto do Bitcoin:
+
