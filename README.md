@@ -77,7 +77,7 @@ public class App {
 Eu concordo com a técnica utilizada em não contar espaços em branco ou de comentários, uma vez que essas linhas não são utilizadas para realizar algo funcional no código e não determinam sua complexidade. 
 Além disso, também não são contabilizadas linhas desnecessárias, mesmo que haja código nelas. Ex.: na função printaNome(), dentro do método print(), foram usadas uma linha para cada concatenação de String e isso não foi contabilizado pela ferramenta.
 
-### Análise do resultado - para cada função:
+### Análise do resultado para cada função:
 Analisando o resultado gerado pela ferramenta, conclui-se que a contagem das linhas de código de um método é feito da seguinte forma: linha onde método é declarado + linhas dentro do método + linha onde se fecha a chave do método. 
 Além disso, foi possível observar uma peculiaridade: as linhas de código incluídas não foram contabilizadas no próprio método, mas sim no método que a "chamou". As linhas incluídas no método "printaNome()" não foram adicionadas a este método pela ferramenta, mas sim ao método "main()", que a invoca. 
 Não obstante essa observação, o número total de linhas contadas pela ferramenta vem de encontro à expectativa: 4 linhas da main + 15 linhas do novo código = 19 linhas na main. 
@@ -100,7 +100,7 @@ Eu particularmente não concordo com o resultado, uma vez que linhas inertes . c
 
 <img width="973" alt="Screenshot 2023-09-10 at 15 37 40" src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/ac81ccc3-51a7-46e4-9a9c-a5eb02f1fb6c">
 
-#### Somatório das linhas de código das classes do diretório (obtida usando função soma da coluna "line" planilha):
+#### Somatório das linhas de código das classes do diretório (obtida usando função soma da coluna "loc" planilha):
 
 <img width="218" alt="soma android" src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/a5b34e5b-8c47-4b91-acc4-744ee1e8eaa3">
 
