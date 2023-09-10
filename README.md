@@ -74,7 +74,8 @@ Resultados para cada função:
 
 
 ### Análise do resultado para cada classe:
-Eu concordo com a técnica utilizada em não contar espaços em branco ou de comentários, uma vez que essas linhas não sau utilizadas para realizar algo funcional no código e não determinam sua complexidade. 
+Eu concordo com a técnica utilizada em não contar espaços em branco ou de comentários, uma vez que essas linhas não são utilizadas para realizar algo funcional no código e não determinam sua complexidade. 
+Além disso, também não são contabilizadas linhas desnecessárias, mesmo que haja código nelas. Ex.: na função printaNome(), dentro do método print(), foram usadas uma linha para cada concatenação de String e isso não foi contabilizado pela ferramenta.
 
 ### Análise do resultado - para cada função:
 Analisando o resultado gerado pela ferramenta, conclui-se que a contagem das linhas de código de um método é feito da seguinte forma: linha onde método é declarado + linhas dentro do método + linha onde se fecha a chave do método. 
