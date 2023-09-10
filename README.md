@@ -79,7 +79,8 @@ Além disso, também não são contabilizadas linhas desnecessárias, mesmo que 
 
 ### Parte do resultado obtido:
 
-<img width="973" alt="Screenshot 2023-09-10 at 15 37 40" src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/ac81ccc3-51a7-46e4-9a9c-a5eb02f1fb6c">
+<img width="669" alt="loc" src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/8e62275f-6b63-4d86-911e-37b5abbb476a">
+
 
 #### Somatório das linhas de código das classes do diretório (obtida usando função soma da coluna "loc" planilha):
 
