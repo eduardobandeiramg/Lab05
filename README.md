@@ -85,7 +85,7 @@ Não obstante essa observação, o número total de linhas contadas pela ferrame
 Eu particularmente não concordo que as linhas do corpo de definição de um método não sejam contabilizadas como linhas deste método, e apenas dentro do método que invoca essa função. 
 Acredito que, em uma ferramenta de contagem de linhas de código, é essencial que seja entregue ao usuário a informação sobre quantas linhas são gastas para definír uma função, e não considerar isso apenas no momento de sua utilização.
 #### Sobre a contabilização das linhas (linhas de comentários e linhas sendo usadas sem necessidade(apenas para uma chave, por exemplo)):
-Eu particularmente concordo com o resultado, uma vez que a ferramenta tem o papel simples e objetivo de contar linhas de código. Ela não se propõe a fazer nada diferente disso, como contar apenas linhas não descartáveis ou algo do tipo. 
+Eu particularmente não concordo com o resultado, uma vez que linhas inertes . como comentários, linhas vazias e linhas desnecessárias - estão sendo contabilizadas. Isso pode compremeter de forma considerável uma análise de complexidade de cada função. 
 
 ## Utilizando a ferramenta para calcular número de linhas em parte do projeto do Android:
 - Código analisado: funcionalidade de animações do sistema operacional android:
@@ -96,6 +96,6 @@ Eu particularmente concordo com o resultado, uma vez que a ferramenta tem o pape
 
 <img width="973" alt="Screenshot 2023-09-10 at 15 37 40" src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/ac81ccc3-51a7-46e4-9a9c-a5eb02f1fb6c">
 
-#### Somatório das linhas de código das classes do diretório (obtida usando função soma da coluna "loc" planilha):
+#### Somatório das linhas de código das classes do diretório (obtida usando função soma da coluna "line" planilha):
 
 <img width="218" alt="soma android" src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/a5b34e5b-8c47-4b91-acc4-744ee1e8eaa3">
