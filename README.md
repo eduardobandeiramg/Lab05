@@ -2,7 +2,7 @@
 
 ## Repositório para demonstração dos resultados da atividade da disciplina "Engenharia Econômica para Software", do 6º período do curso Engenharia de Software - PUC-MG
 
-(Link da ferramenta utilizada (ck))[https://github.com/mauricioaniche/ck]
+[Link da ferramenta utilizada (ck)](https://github.com/mauricioaniche/ck)
 
 Em um primeiro momento foi escrito um código simples, em java:
 
@@ -64,5 +64,5 @@ Acredito que, em uma ferramenta de contagem de linhas de código, é essencial q
 Eu particularmente concordo com o resultado, uma vez que a ferramenta tem o papel simples e objetivo de contar linhas de código. Ela não se propõe a fazer nada diferente disso, como contar apenas linhas não descartáveis ou algo do tipo. 
 
 ## Utilizando a ferramenta para calcular número de linhas no projeto do Bitcoin:
-(Link do projeto)[https://github.com/bitcoin/bitcoin]
+[Link do projeto](https://github.com/bitcoin/bitcoin)
 
