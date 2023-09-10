@@ -20,11 +20,11 @@ public class App {
 
 ```
 
-E o resultado obtido para a classe usando a ferramenta ck foi o seguinte:
+- E o resultado obtido para a classe usando a ferramenta ck foi o seguinte:
 
 <img width="305" alt="loc lab5" src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/92e1bb3b-e375-400b-bcb6-7d8213818884">
 
-Resultado para funções:
+- Resultado para funções:
 
 <img width="439" alt="primeiro resultado " src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/a7186211-20d5-472c-ad8b-28d0afe80855">
 
@@ -64,11 +64,11 @@ public class App {
 
 
 ```
-E o resultado encontrado para a classe usando a ferramenta ck foi o seguinte:
+- E o resultado encontrado para a classe usando a ferramenta ck foi o seguinte:
 
 <img width="221" alt="loc lab5 2" src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/b28c27c7-2455-4858-8228-463fee7b8abf">
 
-Resultados para cada função:
+- Resultados para cada função:
 
 <img width="438" alt="segundo resultado" src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/c54a1648-ecb5-465c-8699-e85f281b0061">
 
@@ -91,6 +91,10 @@ Eu particularmente não concordo com o resultado, uma vez que linhas inertes . c
 - Código analisado: funcionalidade de animações do sistema operacional android:
 - Localização do diretório analisado: core > java > android > animation
 - [Link do projeto](https://github.com/aosp-mirror/platform_frameworks_base)
+- Número de estrelas do projeto:
+
+<img width="172" alt="Screenshot 2023-09-10 at 16 09 55" src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/a9e999bf-3860-4204-9423-a3babfa489e1">
+
 
 ### Parte do resultado obtido:
 
