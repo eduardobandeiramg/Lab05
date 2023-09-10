@@ -26,6 +26,7 @@ E o resultado obtido para a classe usando a ferramenta ck foi o seguinte:
 
 Resultado para funções:
 
+<img width="439" alt="primeiro resultado " src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/a7186211-20d5-472c-ad8b-28d0afe80855">
 
 
 Foram feitas algumas modificações, sendo elas descritas nos comentários do novo código:
@@ -67,7 +68,10 @@ E o resultado encontrado para a classe usando a ferramenta ck foi o seguinte:
 
 <img width="221" alt="loc lab5 2" src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/b28c27c7-2455-4858-8228-463fee7b8abf">
 
-Resultado para cada função:
+Resultados para cada função:
+
+<img width="438" alt="segundo resultado" src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/c54a1648-ecb5-465c-8699-e85f281b0061">
+
 
 ### Análise do resultado para cada classe:
 Eu concordo com a técnica utilizada em não contar espaços em branco ou de comentários, uma vez que essas linhas não sau utilizadas para realizar algo funcional no código e não determinam sua complexidade. 
@@ -83,10 +87,14 @@ Acredito que, em uma ferramenta de contagem de linhas de código, é essencial q
 Eu particularmente concordo com o resultado, uma vez que a ferramenta tem o papel simples e objetivo de contar linhas de código. Ela não se propõe a fazer nada diferente disso, como contar apenas linhas não descartáveis ou algo do tipo. 
 
 ## Utilizando a ferramenta para calcular número de linhas em parte do projeto do Android:
-- código analisado: funcionalidade de animações do sistema operacional android:
+- Código analisado: funcionalidade de animações do sistema operacional android:
 - Localização do diretório analisado: core > java > android > animation
 - [Link do projeto](https://github.com/aosp-mirror/platform_frameworks_base)
 
 ### Parte do resultado obtido:
 
 <img width="973" alt="Screenshot 2023-09-10 at 15 37 40" src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/ac81ccc3-51a7-46e4-9a9c-a5eb02f1fb6c">
+
+#### Somatório das linhas de código das classes do diretório (obtida usando função soma da coluna "loc" planilha):
+
+<img width="218" alt="soma android" src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/a5b34e5b-8c47-4b91-acc4-744ee1e8eaa3">
