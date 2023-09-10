@@ -3,6 +3,7 @@
 ## Repositório para demonstração dos resultados da atividade da disciplina "Engenharia Econômica para Software", do 6º período do curso Engenharia de Software - PUC-MG
 
 [Link da ferramenta utilizada] (https://github.com/mauricioaniche/ck)
+[teste](google.com)
 
 Em um primeiro momento foi escrito um código simples, em java:
 
