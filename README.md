@@ -23,8 +23,7 @@ public class App {
 - E o resultado obtido para a classe usando a ferramenta ck foi o seguinte:
 
 <img width="305" alt="loc lab5" src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/92e1bb3b-e375-400b-bcb6-7d8213818884">
-
-
+<br>
 Foram feitas algumas modificações, sendo elas descritas nos comentários do novo código:
 
 ```java
