@@ -68,4 +68,6 @@ Eu particularmente concordo com o resultado, uma vez que a ferramenta tem o pape
 - Localização do diretório analisado: core > java > android > animation
 - [Link do projeto](https://github.com/aosp-mirror/platform_frameworks_base)
 
+### Parte do resultado obtido:
 
+<img width="973" alt="Screenshot 2023-09-10 at 15 37 40" src="https://github.com/eduardobandeiramg/Lab05/assets/69736656/ac81ccc3-51a7-46e4-9a9c-a5eb02f1fb6c">
